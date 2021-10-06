@@ -1,2 +1,6 @@
 # Google-Auto-Complete-Project
-Google Project: Search and auto-complete sentences within given input text files.
+
+
+A Python program that loads data from an archive and simulates the autocomplete functionality of Google search.
+
+Start the program by running the "autoComplete.py" python module.
